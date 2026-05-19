@@ -1,0 +1,3 @@
+﻿db.url=jdbc:postgresql://localhost:5432/boonsan
+db.user=boonsan_user
+db.password=your_password
